@@ -1,0 +1,25 @@
+Site baseado em Html, css, bootstrap, bulma, php, e SQl.
+Site desenvolvido para utilização didática para a matéria de Desenvolvimento web. Professor marcelo.
+Desenvolvido por Bruno Araujo Silva. Instagram @brunoaraujoslv
+
+
+
+
+USUÁRIOS CADASTRADOS 
+usuario de login: professor
+senha: 123
+-------------------------------
+usuario de login: beta
+senha: 123
+
+COMANDOS 
+comando para inserir o usuário manualmente no BD com criptografia MD5 para a senha
+INSERT INTO `usuario`(usuario, senha) VALUES('professor', md5('123'));
+
+REFERÊNCIAS: 
+CANALTI. https://www.youtube.com/c/CanalTIoficial/featured
+https://www.delftstack.com/
+www.flaticon.com
+www.ti-enxame.com
+loading.io
+pt.stackoverflow.com
